@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/IOT/aws-java-sdk-lib/aws-java-sdk-1.11.109.jar"/>
+	<classpathentry kind="lib" path="D:/IOT/aws-java-sdk-lib/aws-java-sdk-1.11.109-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/IOT/aws-java-sdk-lib/aws-java-sdk-1.11.109-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
